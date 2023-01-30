@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: L N Saaswath # Website name
-baseURL: 'https://infini8-13.github.io/starter-hugo-portfolio-theme' # Website URL
+baseURL: 'https://infini8-13.github.io/' # Website URL
 
 ############################
 ## PAGE OPTIONS
