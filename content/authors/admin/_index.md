@@ -13,7 +13,7 @@ status:
   icon: ☕️
 
 # Organizations/Affiliations
-#organizations:
+organizations:
 - name: SHAKTI, RISE Labs, IIT Madras || AB Circuits and Research Labs || IIT(BHU)
   url: ""
 
