@@ -15,7 +15,7 @@ status:
 # Organizations/Affiliations
 #organizations:
 - name: SHAKTI, RISE Labs, IIT Madras || AB Circuits and Research Labs || IIT(BHU)
-#  url: ""
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Computer Architecture, RISC-V, HW/SW Co-design for Domain Specific Architectures and HW Security.
