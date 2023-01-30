@@ -25,17 +25,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #- Computational Linguistics
 #- Information Retrieval
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -52,15 +52,15 @@ social:
     icon_pack: fab
     link: https://instagram.com/infini8-13
 # Uncomment below for Github link
-- icon: github
-  icon_pack: fab
-  link: https://github.com/infini8-13
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/infini8-13
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
+  - icon: cv
 #  icon_pack: ai
-   link: files/cv.pdf
+     link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
